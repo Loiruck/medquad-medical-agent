@@ -9,8 +9,6 @@ This project implements an AI-powered chatbot trained on the MedQuad dataset, a 
 - MedQuad dataset
 - Vector Databases
 
-## Try it
-Clone and run in Colab or locally (GPU recommended). Link to notebook: [Google Colab](https://colab.research.google.com/drive/1BY11_hBm4KjzFnJIu5P3NE6qFr_MlieN)
 
 ## License
 MIT
