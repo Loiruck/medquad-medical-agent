@@ -6,11 +6,6 @@ MedQuad is an English medical question-answering dataset designed for AI and NLP
 It contains QA pairs focused on health topics sourced from reputable institutions like the NIH.
 """
 
-# === Install dependencies ===
-# Run in terminal or Colab:
-# !pip install llama-index llama-index-embeddings-huggingface llama-index-llms-huggingface bitsandbytes kagglehub
-
-# === Import Libraries ===
 import os
 import kagglehub
 import pandas as pd
